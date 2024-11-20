@@ -18,7 +18,7 @@
 <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 
 <script>
-  vegaEmbed('#chart1-container', '{{ site.baseurl }}/assets/visualizations/chart1.json').catch(console.error);
+  vegaEmbed('#chart1-container', 'chart1.json').catch(console.error);
 </script>
 
 ---
@@ -53,7 +53,7 @@ The ability to filter by building status helps users identify trends and compare
 <div id="chart2-container"></div>
 
 <script>
-  vegaEmbed('#chart2-container', '{{ site.baseurl }}/assets/visualizations/chart2.json').catch(console.error);
+  vegaEmbed('#chart2-container', 'chart2.json').catch(console.error);
 </script>
 
 ---
