@@ -47,7 +47,7 @@ A radio button selection enables users to filter the chart by a specific buildin
 The ability to filter by building status helps users identify trends and compare the distribution of building statuses across counties.
 
 #### Overlaps with Homework #7
-While the same dataset was used, this visualization does not overlap with the analysis from previous homework. It presents a new perspective by examining the total number of buildings across counties and their building statuses, rather than focusing on square footage or building usage as in previous visualizations.
+While the same dataset was used, this visualization does not overlap with the analysis from previous homework. It presents a new perspective by examining the total number of buildings across counties and their building statuses, rather than focusing on the trend ofbuilding construction over time as in previous visualizations.
 
 ---
 
@@ -85,7 +85,7 @@ A dropdown menu allows users to select a specific county, dynamically filtering 
 The dropdown menu enhances the chart’s usability, enabling users to analyze detailed patterns of building usage for individual counties without cluttering the visualization.
 
 #### Overlaps with Homework #7
-Although the same dataset was used, this visualization introduces a fresh perspective that focuses on building usage descriptions within counties, compared to previous visualizations that emphasized square footage or building statuses. This analysis style is distinct from prior work.
+Although the same dataset was used, this visualization introduces a fresh perspective that focuses on building usage descriptions within counties, compared to previous visualizations that emphasized on the unique agencies for each county. This analysis style is distinct from prior work.
 
 ---
 
